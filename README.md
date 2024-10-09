@@ -10,4 +10,7 @@ Majoring in Computer Science and minoring in Mathematics and Japanese at Colby C
     - Looking to start: React, Figma, SQL
     - In process of writing script for an RPGMaker game
     - Looking for January Internship at Colby College
-
+## Currently Learning:
+    - HTML, CSS, JavaScript
+    - Figma
+    - RPGMaker, Unity
