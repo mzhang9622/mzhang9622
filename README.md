@@ -6,6 +6,7 @@ Majoring in Computer Science and minoring in Mathematics and Japanese at Colby C
     - I am proficient in Java and Python, and am familiar with C++.
     - A big fan of JRPGs, especially the older ones that are pixelated (Unfortunately did not have the chance to play a lot).
     - Currently taking a course on software engineering at Colby College
+    - Responsible for client information and repository management in current team.
 ## Current plan:
     - Looking to start: React, Figma, SQL
     - In process of writing script for an RPGMaker game
